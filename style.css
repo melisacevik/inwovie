@@ -7,7 +7,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-   
+    color: #000000;
   }
   
   header{
@@ -19,3 +19,11 @@
       font-weight: thin;
       border-bottom: 1px solid #7a0026; /* İstenilen alt çizgi rengini ve özelliklerini burada belirtebilirsiniz */
   }
+
+.btn-close{
+    position: absolute;
+    right: 20px;
+}
+.offcanvas-header{
+  position: relative;
+}
