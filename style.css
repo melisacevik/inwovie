@@ -1,0 +1,21 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400;500&family=Poppins:wght@300;400;500&display=swap');
+
+
+* {
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  
+  header{
+      color: #595959;
+      background-color: #fff;
+      padding: 10px;
+      text-align: center;
+      font-size: 18px;
+      font-weight: thin;
+      border-bottom: 1px solid #7a0026; /* İstenilen alt çizgi rengini ve özelliklerini burada belirtebilirsiniz */
+  }
