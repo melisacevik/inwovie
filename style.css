@@ -27,3 +27,7 @@
 .offcanvas-header{
   position: relative;
 }
+
+.cursor-pointer {
+  cursor: pointer;
+}
